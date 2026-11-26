@@ -21,6 +21,7 @@ B 站 [驰宇w](https://space.bilibili.com/650438749) 的视频系列「派派�
 | 11 | 训练贪吃蛇AI死了1891次，它竟然学会了…… | [ep11-ai-snake](ep11-ai-snake/) |
 | 主线 11 | 记了一整年的账，被一杯奶茶搞崩了（报错与 try/except） | [ep11-try](ep11-try/) |
 | 主线 12 | 一块版，一百条鱼（class 类与对象） | [ep12-class](ep12-class/) |
+| 主线 13 | 只写了一行 pass，铁皮青蛙就会走了（继承） | [ep13-inherit](ep13-inherit/) |
 
 ## 挑战题
 
