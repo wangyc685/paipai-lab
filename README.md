@@ -23,6 +23,7 @@ B 站 [驰宇w](https://space.bilibili.com/650438749) 的视频系列「派派�
 | 主线 12 | 一块版，一百条鱼（class 类与对象） | [ep12-class](ep12-class/) |
 | 主线 13 | 只写了一行 pass，铁皮青蛙就会走了（继承） | [ep13-inherit](ep13-inherit/) |
 | 主线 14 | 汉诺塔 64 层要搬 5849 亿年（递归） | [ep14-recursion](ep14-recursion/) |
+| 主线 15 | 集齐 100 张卡要抽几次？派派抽了 764 次（集合 set） | [ep15-set](ep15-set/) |
 
 ## 挑战题
 
