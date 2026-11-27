@@ -1,0 +1,42 @@
+3
+A C
+A B
+C B
+A C
+B A
+B C
+A C
+
+4
+A B
+A C
+B C
+A B
+A B
+
+3
+A C
+A B
+C B
+B C
+
+3
+A B
+A D
+A C
+
+3
+A C
+A B
+C B
+A C
+B C
+B A
+C A
+B C
+A B
+A C
+B C
+
+2
+A B
